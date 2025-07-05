@@ -10,7 +10,7 @@ Click on the hyperlinks below to access a static version of the notebook (for qu
 | ----- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | Intro & Python Crash Course Pt.1 | [Lab 1](lab_content/Lab_01_Complete.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/w2024/blob/main/lab_content/Lab_01_Complete.ipynb) | [Ex. 1](lab_exercises/Lab_01_Exercises.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/w2024/blob/main/lab_exercises/Lab_01_Exercises.ipynb) |[Sol. 1]|
 | 2 | Python Crash Course Pt.2 + Introduction to Pandas | [Lab 2](lab_content/Lab_02_Complete.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/w2024/blob/main/lab_content/Lab_02_Complete.ipynb) | [Ex. 2](lab_exercises/Lab_02_Exercises.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GUC-DM/w2024/blob/main/lab_exercises/Lab_02_Exercises.ipynb)|[Sol. 2]
-| 3 | 	Data Cleaning & Preprocessing | [Lab 3] | [Ex. 3]|[Sol. 3]
+<!--| 3 | 	Data Cleaning & Preprocessing | [Lab 3] | [Ex. 3]|[Sol. 3]
 | 4 | 	Linear Regression | [Lab 4]| [Ex. 4]|[Sol. 4]
 | 5     | Problem Sets I                                     | - | [Ex. 5]| [Sol. 5]|
 | 6 | 	Decision Trees, Ensemble Methods, Bagging/Boosting, Cross Validation | [Lab 6]| [Ex. 6]|[Sol. 6]|
@@ -18,7 +18,7 @@ Click on the hyperlinks below to access a static version of the notebook (for qu
 | 8     |  K-Means Clustering| [Lab 8]| [Ex. 8]|[Sol. 8]|
 | 9     |  Association Rule Mining | [Lab 9]| [Ex. 9] |[Sol. 9]|
 | 10     |  Sentiment Analysis | [Lab 10]| [Ex. 10]|[Sol. 10]|
-| 11    |  Problem Sets II |  - | [Ex. 11]|[Sol. 11]
+| 11    |  Problem Sets II |  - | [Ex. 11]|[Sol. 11]-->
 _Note: Solutions will be made available at the end of each week._
 
 ## Installation & Set-Up
